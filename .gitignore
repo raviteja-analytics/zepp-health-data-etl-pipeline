@@ -1,0 +1,12 @@
+*.json
+*.zip
+__pycache__/
+*.csv
+ACTIVITY*/
+BODY/
+HEALTH_DATA/
+HEARTRATE*/
+SLEEP*/
+SPORT/
+USER/
+Strava Raw/
